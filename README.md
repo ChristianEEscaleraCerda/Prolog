@@ -1,2 +1,2 @@
 # Prolog
-Trabajos hechos en clase
+Prolog Class Projects
