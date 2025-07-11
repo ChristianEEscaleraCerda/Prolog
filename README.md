@@ -1,2 +1,2 @@
 # Prolog
-Prolog Class Projects
+Prolog school projects
